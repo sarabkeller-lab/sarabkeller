@@ -11,4 +11,4 @@ I am an incoming **Assistant Professor of Bioengineering at the University of Or
 
 I am currently concluding my Glasstone Research Fellowship in the Department of Engineering Science at the University of Oxford, working in the BUBBL lab under the supervision of Profs. Eleanor Stride and Constantin Coussios.
 
-Outside of the lab, I love trail running (or normal running if I must!), baking
+Outside of the lab, I love hiking and trail running, baking elaborate new desserts, and reading (preferably with a cat on my lap).
