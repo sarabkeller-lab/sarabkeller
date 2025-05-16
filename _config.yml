@@ -26,6 +26,7 @@ google_scholar: https://scholar.google.com/citations?user=mgmnqLcAAAAJ&hl=en
 search: true
 
 # Build settings
+baseurl: ""
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
