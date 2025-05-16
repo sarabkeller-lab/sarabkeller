@@ -1,8 +1,14 @@
 ---
 permalink: /about/
-title: "About"
+title: "about me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+![Dr. Sara Keller](assets/images/sara-keller.jpg){: .profile-img }
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am an incoming **Assistant Professor of Bioengineering at the University of Oregon** starting in January 2026. My group will develop image-guided interventions for the diagnosis and treatment of disease, with a special focus on investigating the immunological effects of high-intensity sound waves across diverse tissue microenvironments, including wounds and infections.
+
+**I will be recruiting team members at all levels starting January 2026, including undergraduates, graduate students, postdocs, and research staff. If you are interested in working with me, please don’t hesitate to get in touch — no prior ultrasound experience is necessary!**
+
+I am currently concluding my Glasstone Research Fellowship in the Department of Engineering Science at the University of Oxford, working in the BUBBL lab under the supervision of Profs. Eleanor Stride and Constantin Coussios.
+
+Outside of the lab, I love trail running (or normal running if I must!), baking
